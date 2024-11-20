@@ -1,6 +1,5 @@
 import allfn as af
 
-
 d = {
     "ş": {"type": "tam-sayı", "value": "8"},
     "ç": {"type": "tam-sayı", "value": "2"},
@@ -13,7 +12,6 @@ d = {
 }
 
 operators = ["artı", "eksi", "çarp", "bölü"]
-
 exp = "!1! artı !,0!"
 
 
